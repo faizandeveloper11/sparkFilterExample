@@ -1,0 +1,5 @@
+This is an informational message.
+ERROR: Something went wrong!
+All systems operational.
+warning: low disk space
+Error: Failed to connect.
